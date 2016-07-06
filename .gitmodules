@@ -1,0 +1,3 @@
+[submodule "comman"]
+	path = comman
+	url = git://github.com/ljc82/comman.git
